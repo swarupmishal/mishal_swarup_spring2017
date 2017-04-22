@@ -1,0 +1,8 @@
+Link 1(Just Copy and Paste and it will automatically start download):
+https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.csv?accessType=DOWNLOAD
+
+Link 2(If Link 1 doesn't work):
+- Copy and paste this link
+- Click Export tab
+- Click Download and then Download As CSV 
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
