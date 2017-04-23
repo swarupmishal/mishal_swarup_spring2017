@@ -132,7 +132,7 @@ Output:
 
 
 Inference:
-- We can see that Theft is the most common crime that takes place in Chicago.
-- If we observe the second graph, we can analyze that the rate of crime in Chicago is showing decreasing trend over the years since 2001, thus slowly Chicago is becoming a better and safe place to live.
-- There is a sudden fall of crime in the year 2017, because of the obvious lack of full year's worth of data.
+- The Bright spots show more crime activity in past 2 years and light spots show less crime activity in past 2 years.
+- Brighter the spot more is it unsafe to stay in that locality.
+- If someone is considering moving to Chicago, they should try to live near places with light spots so as to avoid Crime activity.
 --------------------------------
