@@ -49,7 +49,7 @@ Output:
 ###### Count of Crime by Primary Type Classification
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.png)
 ###### Change in Count of Crime by Year.csv
-[View the csv file here](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.csv)
+[View the csv file here](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Change%20in%20Count%20of%20Crime%20by%20Year.csv)
 ###### Change in Count of Crime by Year
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Change%20in%20Count%20of%20Crime%20by%20Year.png)
 
@@ -73,6 +73,10 @@ Steps:
 - Plot a graph to display Crime Activity vs Arrest Activity from 2012 to 2017
 
 Output:
+###### Count of Criminal Activity of Last 5 Years.csv
+[View the csv file here](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_2/Count%20of%20Criminal%20Activity%20in%20last%205%20years.csv)
+###### Count of Arrest Activity of Last 5 Years.csv
+[View the csv file here](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_2/Count%20of%20Arrest%20Activity%20in%20last%205%20years.csv)
 ###### Crime Activity vs Arrest Activity for Last 5 years
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_2/Crime%20Activity%20VS%20Arrests%20from%202012%20-%202017.png)
 
@@ -94,6 +98,8 @@ Steps:
 - Group by the data by Year and Area Name
 - Plot a graph to display the Count of Car Theft by Community Area
 Output:
+###### Count of Car Theft by Community Area.csv
+[View the csv file here](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_3/Count%20of%20Car%20Theft%20by%20Community%20Area.csv)
 ###### Car Theft in Chicago, 2012-2017
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_3/Car%20Theft%20in%20Chicago%2C%202012-2017.png)
 ###### Count of Car Theft by Community Area
