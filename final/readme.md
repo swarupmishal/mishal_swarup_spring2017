@@ -6,13 +6,15 @@ https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 # How can one obtain the Data?
 There are 2 links for downloading the data.
 
-Link 1(Just Copy, Paste and hit Enter key and it will automatically start download):
+Link 1 (Just Copy, Paste and hit Enter key and it will automatically start download):
 https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.csv?accessType=DOWNLOAD
+
 Steps:
 - Store the downloaded csv file inside data raw_data folder and then run the .ipynb files
 
-Link 2(If Link 1 doesn't work):
+Link 2 (If Link 1 doesn't work):
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
+
 Steps:
 - Copy and paste the link mentioned above
 - Click Export tab
