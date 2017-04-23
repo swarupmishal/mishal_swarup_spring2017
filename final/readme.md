@@ -45,3 +45,104 @@ Output:
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.png)
 ###### Change in Count of Crime by Year
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Change%20in%20Count%20of%20Crime%20by%20Year.png)
+
+Inference:
+- We can see that Theft is the most common crime that takes place in Chicago.
+- If we observe the second graph, we can analyze that the rate of crime in Chicago is showing decreasing trend over the years since 2001, thus slowly Chicago is becoming a better and safe place to live.
+- There is a sudden fall of crime in the year 2017, because of the obvious lack of full year's worth of data.
+------------------------------------
+## Analysis 2
+### Analyzing Crime Activity vs Arrest Activity for the past 5 years
+Input: 
+Year, Arrest
+
+Steps:
+- Read the input file
+- Limit data for last 5 years
+- Make a dataframe total crimes
+- Group them by Year and then Sort them
+- Make a dataframe total crimes where actually someone was arrested
+- Group them by Year and then Sort them
+- Plot a graph to display Crime Activity vs Arrest Activity from 2012 to 2017
+
+Output:
+###### Crime Activity vs Arrest Activity for Last 5 years
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_2/Crime%20Activity%20VS%20Arrests%20from%202012%20-%202017.png)
+
+Inference:
+- So from the line plot above, truly there has been a decrease in crime activity over the last five years which has lead to fewer arrests.
+- Also there is a wide gap between arrests and crime activity, about ~ 250,000 difference in crime activity and arrests.
+--------------------------------
+## Analysis 3
+### Lets try to analyze Car Theft in Chicago in Last 5 years
+Input: 
+Year, Area Name
+
+Steps:
+- Read the input file
+- Limit data for last 5 years
+- Add Area Name as an extra column for better analysis.
+- Limit data where Car was stolen
+- Plot a graph to display Overall Trend of Car Theft in last 5 years
+- Group by the data by Year and Area Name
+- Plot a graph to display the Count of Car Theft by Community Area
+Output:
+###### Car Theft in Chicago, 2012-2017
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_3/Car%20Theft%20in%20Chicago%2C%202012-2017.png)
+###### Count of Car Theft by Community Area
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_3/Count%20of%20Car%20Theft%20by%20Community%20Area.png)
+
+Inference:
+- The rate of car theft seems to be falling in Chicago, since 2012.
+- We can see that out of the 77 Community Areas Austin is the worst Community Are to park a car.
+--------------------------------
+## Analysis 1
+### Analyzing Pattern of Crime over the years since 2001
+Input: 
+Primary Type, Year
+
+Steps:
+- Read the input file
+- Make a dataframe total crimes
+- Group them by Primary type and then Sort them
+- Plot a graph to display Overall Crimes since 2001
+- Make a dataframe to sum Crimes based on Year
+- Plot a graph to display the pattern of Crimes over the years
+
+Output:
+###### Count of Crime by Primary Type Classification
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.png)
+###### Change in Count of Crime by Year
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Change%20in%20Count%20of%20Crime%20by%20Year.png)
+
+Inference:
+- We can see that Theft is the most common crime that takes place in Chicago.
+- If we observe the second graph, we can analyze that the rate of crime in Chicago is showing decreasing trend over the years since 2001, thus slowly Chicago is becoming a better and safe place to live.
+- There is a sudden fall of crime in the year 2017, because of the obvious lack of full year's worth of data.
+--------------------------------
+## Analysis 1
+### Analyzing Pattern of Crime over the years since 2001
+Input: 
+Year
+
+Steps:
+- Read the input file
+- Make a dataframe total crimes
+- Group them by Year and then Sort them
+- Make a dataframe total crimes where actually someone was arrested
+- Group them by Year and then Sort them
+- Plot a graph to display Crime Activity vs Arrest Activity
+- Make a dataframe to sum Crimes based on Year
+- Plot a graph to display the pattern of Crimes over the years
+
+Output:
+###### Count of Crime by Primary Type Classification
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.png)
+###### Change in Count of Crime by Year
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Change%20in%20Count%20of%20Crime%20by%20Year.png)
+
+Inference:
+- We can see that Theft is the most common crime that takes place in Chicago.
+- If we observe the second graph, we can analyze that the rate of crime in Chicago is showing decreasing trend over the years since 2001, thus slowly Chicago is becoming a better and safe place to live.
+- There is a sudden fall of crime in the year 2017, because of the obvious lack of full year's worth of data.
+--------------------------------
