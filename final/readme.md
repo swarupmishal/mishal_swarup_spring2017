@@ -82,7 +82,7 @@ Arrest, Year
 
 > Inference:
 - So from the line plot above, truly there has been a decrease in criminal activity over the last five years which has lead to fewer arrests.
-- Also there is a wide gap between arrests and crime activity, about ~ 250,000 difference in crime activity and arrests.
+- Also there is a wide gap between arrests and crime activity, of about 250,000 difference in crime activity and arrests, except for the year 2017 for obvious reasons of not having data for entire year.
 --------------------------------
 ## Analysis 3
 ### Lets try to analyze Car Theft in Chicago in Last 5 years
