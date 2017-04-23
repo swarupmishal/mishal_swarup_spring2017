@@ -61,7 +61,7 @@ Primary Type, Year
 ## Analysis 2
 ### Analyzing Crime Activity vs Arrest Activity for the past 5 years
 > Input: 
-Year, Arrest
+Arrest, Year
 
 > Steps:
 - Read the input file
@@ -87,7 +87,7 @@ Year, Arrest
 ## Analysis 3
 ### Lets try to analyze Car Theft in Chicago in Last 5 years
 > Input: 
-Year, Area Name
+Area Name, Year
 
 > Steps:
 - Read the input file
@@ -131,7 +131,7 @@ Domestic, Year
 ## Analysis 5
 ### Analyzing Map of Chicago with maximum Crime Occurrences in past 2 Years
 > Input: 
-Year, Latitude, Longitude
+Latitude, Longitude, Year
 
 > Steps:
 - Read the input file
