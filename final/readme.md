@@ -70,7 +70,7 @@ Output:
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_2/Crime%20Activity%20VS%20Arrests%20from%202012%20-%202017.png)
 
 Inference:
-- So from the line plot above, truly there has been a decrease in crime activity over the last five years which has lead to fewer arrests.
+- So from the line plot above, truly there has been a decrease in criminal activity over the last five years which has lead to fewer arrests.
 - Also there is a wide gap between arrests and crime activity, about ~ 250,000 difference in crime activity and arrests.
 --------------------------------
 ## Analysis 3
@@ -133,6 +133,6 @@ Output:
 
 Inference:
 - The Bright spots show more crime activity in past 2 years and light spots show less crime activity in past 2 years.
-- Brighter the spot more is it unsafe to stay in that locality.
-- If someone is considering moving to Chicago, they should try to live near places with light spots so as to avoid Crime activity.
+- Brighter the spot, more is it unsafe to stay in that locality.
+- If someone is considering moving to Chicago, they should try to live near places with light spots so as to avoid Criminal activity.
 --------------------------------
