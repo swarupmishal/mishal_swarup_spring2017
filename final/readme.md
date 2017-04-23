@@ -24,5 +24,6 @@ Steps:
 - Store the downloaded csv file inside data raw_data folder and then run the .ipynb files
 
 # How is the Data stored
+The Data is stored as CSV file. The downloaded file should be stored inside the folder raw_data which we can find under data folder. The  downloaded file is read using Python
 
 # Individual Analysis and its Inference
