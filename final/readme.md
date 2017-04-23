@@ -1,4 +1,4 @@
-# DATA ANALYSIS OF CRIMINAL ACTIVITY IN CHICAGO, SINCE 2001
+# DATA ANALYSIS OF CRIMINAL ACTIVITY IN CHICAGO
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/extra/6A231614-652B-4334-852C-54261F4B13BD.png)
 
 # What exactly the Data is?
