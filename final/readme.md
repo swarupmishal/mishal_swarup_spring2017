@@ -32,10 +32,10 @@ The Data is stored as CSV file. The downloaded file should be stored inside the 
 # Individual Analysis and its Inference
 ## Analysis 1
 ### Analyzing Pattern of Crime over the years since 2001
-Input: 
+> Input: 
 Primary Type, Year
 
-Steps:
+> Steps:
 - Read the input file
 - Make a dataframe total crimes
 - Group it by Primary type and then Sort it
@@ -43,7 +43,7 @@ Steps:
 - Make a dataframe to sum Crimes based on Year
 - Plot a graph to display the pattern of Crimes over the years
 
-Output:
+> Output:
 ###### Count of Crime by Primary Type Classification.csv
 [View the csv file here](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.csv)
 ###### Count of Crime by Primary Type Classification
@@ -53,17 +53,17 @@ Output:
 ###### Change in Count of Crime by Year
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Change%20in%20Count%20of%20Crime%20by%20Year.png)
 
-Inference:
+> Inference:
 - We can see that Theft is the most common crime that takes place in Chicago.
 - If we observe the second graph, we can analyze that the rate of crime in Chicago is showing decreasing trend over the years since 2001, thus slowly Chicago is becoming a better and safe place to live.
 - There is a sudden fall of crime in the year 2017, because of the obvious lack of full year's worth of data.
 ------------------------------------
 ## Analysis 2
 ### Analyzing Crime Activity vs Arrest Activity for the past 5 years
-Input: 
+> Input: 
 Year, Arrest
 
-Steps:
+> Steps:
 - Read the input file
 - Limit data for last 5 years
 - Make a dataframe total crimes
@@ -72,7 +72,7 @@ Steps:
 - Group it by Year and then Sort it
 - Plot a graph to display Crime Activity vs Arrest Activity from 2012 to 2017
 
-Output:
+> Output:
 ###### Count of Criminal Activity of Last 5 Years.csv
 [View the csv file here](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_2/Count%20of%20Criminal%20Activity%20in%20last%205%20years.csv)
 ###### Count of Arrest Activity of Last 5 Years.csv
@@ -80,16 +80,16 @@ Output:
 ###### Crime Activity vs Arrest Activity for Last 5 years
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_2/Crime%20Activity%20VS%20Arrests%20from%202012%20-%202017.png)
 
-Inference:
+> Inference:
 - So from the line plot above, truly there has been a decrease in criminal activity over the last five years which has lead to fewer arrests.
 - Also there is a wide gap between arrests and crime activity, about ~ 250,000 difference in crime activity and arrests.
 --------------------------------
 ## Analysis 3
 ### Lets try to analyze Car Theft in Chicago in Last 5 years
-Input: 
+> Input: 
 Year, Area Name
 
-Steps:
+> Steps:
 - Read the input file
 - Limit data for last 5 years
 - Add Area Name as an extra column for better analysis.
@@ -97,7 +97,7 @@ Steps:
 - Plot a graph to display Overall Trend of Car Theft in last 5 years
 - Group by the data by Year and Area Name
 - Plot a graph to display the Count of Car Theft by Community Area
-Output:
+> Output:
 ###### Count of Car Theft by Community Area.csv
 [View the csv file here](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_3/Count%20of%20Car%20Theft%20by%20Community%20Area.csv)
 ###### Car Theft in Chicago, 2012-2017
@@ -105,46 +105,46 @@ Output:
 ###### Count of Car Theft by Community Area
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_3/Count%20of%20Car%20Theft%20by%20Community%20Area.png)
 
-Inference:
+> Inference:
 - The rate of car theft seems to be falling in Chicago, since 2012.
 - We can see that out of the 77 Community Areas Austin is the worst Community Are to park a car.
 --------------------------------
 ## Analysis 4
 ### Analyzing Monthly Domestic Violence in last 5 years
-Input: 
+> Input: 
 Domestic, Year
 
-Steps:
+> Steps:
 - Read the input file
 - Limit data for last 5 years
 - Make a dataframe total crimes
 - Group it by Domestic, Year and then Sort it
 - Plot a graph to display Monthly domestic violence for last 5 years
 
-Output:
+> Output:
 ###### Monthly domestic violence
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_4/Monthly%20domestic%20violence.png)
 
-Inference:
+> Inference:
 - The higher rate of crime activity during April-August, might be due to the fact that it's the summer period where people are always outside and more vulnerable to attacks from perps.
 --------------------------------
 ## Analysis 5
 ### Analyzing Map of Chicago with maximum Crime Occurrences in past 2 Years
-Input: 
+> Input: 
 Year, Latitude, Longitude
 
-Steps:
+> Steps:
 - Read the input file
 - Make a dataframe total crimes
 - Limit the data for last 2 years
 - Plot a graph to display Map of Chicago with maximum Crime Occurrences
 
-Output:
+> Output:
 ###### Map of Chicago with maximum Crime Occurrences
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_5/Chicago%20Crime%20Heat%20Map%20in%20Last%202%20Years.png)
 
 
-Inference:
+> Inference:
 - The Bright spots show more crime activity in past 2 years and light spots show less crime activity in past 2 years.
 - Brighter the spot, more is it unsafe to stay in that locality.
 - If someone is considering moving to Chicago, they should try to live near places with light spots so as to avoid Criminal activity.
