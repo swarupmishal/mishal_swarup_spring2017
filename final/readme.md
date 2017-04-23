@@ -6,7 +6,7 @@ This dataset reflects reported incidents of crime (with the exception of murders
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 
-# How can one obtain the Data?
+# How can one obtain the Data and run the .ipynb files?
 The data is huge of 1.4 gb. Takes around 5 minutes to download the data, depending on the internet connectivity. There are 2 links for downloading the data.
 
 Link 1:
@@ -15,7 +15,7 @@ https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.csv?accessType=DOWNLOAD
 
 Steps:
 - Just Copy and Paste the link mentioned above and it will automatically start download
-- Store the downloaded csv file inside data/raw_data folder and then run the .ipynb files
+- Store the downloaded csv file at the folder location final/data/raw_data and then run the .ipynb files
 
 Link 2 (If Link 1 doesn't work):
 
@@ -25,7 +25,7 @@ Steps:
 - Copy and paste the link mentioned above
 - Click Export tab
 - Click Download and click then Download As CSV 
-- Store the downloaded csv file inside data raw_data folder and then run the .ipynb files
+- Store the downloaded csv file at the folder location final/data/raw_data and then run the .ipynb files
 
 # How is the Data stored?
 The Data is stored as CSV file. The downloaded file should be stored inside the folder raw_data which we can find under data folder. The  downloaded file is read using Python
