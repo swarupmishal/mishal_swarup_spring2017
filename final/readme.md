@@ -1,3 +1,6 @@
+# Data Analysis of Criminal Activity in Chicago
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/extra/6A231614-652B-4334-852C-54261F4B13BD.png)
+
 # What exactly is the Data?
 This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. In order to protect the privacy of crime victims, addresses are shown at the block level only and specific locations are not identified. The data consists of 22 columns and 6.31 Million rows. Each row is a Reported Crime. The entire description for the dataset can be found out at this link,
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
