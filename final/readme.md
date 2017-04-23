@@ -30,3 +30,9 @@ The Data is stored as CSV file. The downloaded file should be stored inside the 
 ## Analysis 1
 ### Analyzing Pattern of Crime over the years since 2001
 Input: 
+Primary Type, Year
+Output:
+####### Count of Crime by Primary Type Classification
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.png)
+####### Change in Count of Crime by Year
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Change%20in%20Count%20of%20Crime%20by%20Year.png)
