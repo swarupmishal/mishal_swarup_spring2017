@@ -27,3 +27,6 @@ Steps:
 The Data is stored as CSV file. The downloaded file should be stored inside the folder raw_data which we can find under data folder. The  downloaded file is read using Python
 
 # Individual Analysis and its Inference
+## Analysis 1
+### Analyzing Pattern of Crime over the years since 2001
+Input: 
