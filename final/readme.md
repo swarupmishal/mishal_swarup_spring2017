@@ -44,6 +44,8 @@ Steps:
 - Plot a graph to display the pattern of Crimes over the years
 
 Output:
+###### Count of Crime by Primary Type Classification.csv
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.csv)
 ###### Count of Crime by Primary Type Classification
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.png)
 ###### Change in Count of Crime by Year
