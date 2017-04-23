@@ -115,26 +115,21 @@ Output:
 Inference:
 - The higher rate of crime activity during April-August, might be due to the fact that it's the summer period where people are always outside and more vulnerable to attacks from perps.
 --------------------------------
-## Analysis 1
-### Analyzing Pattern of Crime over the years since 2001
+## Analysis 5
+### Analyzing Map of Chicago with maximum Crime Occurrences in past 2 Years
 Input: 
-Year
+Year, Latitude, Longitude
 
 Steps:
 - Read the input file
 - Make a dataframe total crimes
-- Group them by Year and then Sort them
-- Make a dataframe total crimes where actually someone was arrested
-- Group them by Year and then Sort them
-- Plot a graph to display Crime Activity vs Arrest Activity
-- Make a dataframe to sum Crimes based on Year
-- Plot a graph to display the pattern of Crimes over the years
+- Limit the data for last 2 years
+- Plot a graph to display Map of Chicago with maximum Crime Occurrences
 
 Output:
-###### Count of Crime by Primary Type Classification
-![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.png)
-###### Change in Count of Crime by Year
-![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Change%20in%20Count%20of%20Crime%20by%20Year.png)
+###### Map of Chicago with maximum Crime Occurrences
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_5/Chicago%20Crime%20Heat%20Map%20in%20Last%202%20Years.png)
+
 
 Inference:
 - We can see that Theft is the most common crime that takes place in Chicago.
