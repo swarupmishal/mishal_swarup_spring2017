@@ -35,7 +35,7 @@ Primary Type, Year
 Steps:
 - Read the input file
 - Make a dataframe total crimes
-- Group them by Primary type and then Sort them
+- Group it by Primary type and then Sort it
 - Plot a graph to display Overall Crimes since 2001
 - Make a dataframe to sum Crimes based on Year
 - Plot a graph to display the pattern of Crimes over the years
@@ -60,9 +60,9 @@ Steps:
 - Read the input file
 - Limit data for last 5 years
 - Make a dataframe total crimes
-- Group them by Year and then Sort them
+- Group it by Year and then Sort it
 - Make a dataframe total crimes where actually someone was arrested
-- Group them by Year and then Sort them
+- Group it by Year and then Sort it
 - Plot a graph to display Crime Activity vs Arrest Activity from 2012 to 2017
 
 Output:
@@ -96,29 +96,24 @@ Inference:
 - The rate of car theft seems to be falling in Chicago, since 2012.
 - We can see that out of the 77 Community Areas Austin is the worst Community Are to park a car.
 --------------------------------
-## Analysis 1
-### Analyzing Pattern of Crime over the years since 2001
+## Analysis 4
+### Analyzing Monthly Domestic Violence in last 5 years
 Input: 
-Primary Type, Year
+Domestic, Year
 
 Steps:
 - Read the input file
+- Limit data for last 5 years
 - Make a dataframe total crimes
-- Group them by Primary type and then Sort them
-- Plot a graph to display Overall Crimes since 2001
-- Make a dataframe to sum Crimes based on Year
-- Plot a graph to display the pattern of Crimes over the years
+- Group it by Domestic, Year and then Sort it
+- Plot a graph to display Monthly domestic violence for last 5 years
 
 Output:
-###### Count of Crime by Primary Type Classification
-![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Count%20of%20Crime%20by%20Primary%20Type%20Classification.png)
-###### Change in Count of Crime by Year
-![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_1/Change%20in%20Count%20of%20Crime%20by%20Year.png)
+###### Monthly domestic violence
+![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_4/Monthly%20domestic%20violence.png)
 
 Inference:
-- We can see that Theft is the most common crime that takes place in Chicago.
-- If we observe the second graph, we can analyze that the rate of crime in Chicago is showing decreasing trend over the years since 2001, thus slowly Chicago is becoming a better and safe place to live.
-- There is a sudden fall of crime in the year 2017, because of the obvious lack of full year's worth of data.
+- The higher rate of crime activity during April-August, might be due to the fact that it's the summer period where people are always outside and more vulnerable to attacks from perps.
 --------------------------------
 ## Analysis 1
 ### Analyzing Pattern of Crime over the years since 2001
