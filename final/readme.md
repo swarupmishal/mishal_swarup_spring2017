@@ -107,7 +107,7 @@ Area Name, Year
 
 > Inference:
 - The rate of car theft seems to be falling in Chicago, since 2012.
-- We can see that out of the 77 Community Areas Austin is the worst Community Are to park a car.
+- We can see that out of the 77 Community Areas, Austin is the worst Community Are to park a car.
 --------------------------------
 ## Analysis 4
 ### Analyzing Monthly Domestic Violence in last 5 years
