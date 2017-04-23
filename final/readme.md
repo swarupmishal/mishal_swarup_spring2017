@@ -106,8 +106,9 @@ Area Name, Year
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_3/Count%20of%20Car%20Theft%20by%20Community%20Area.png)
 
 > Inference:
+- The rate of Car theft was observed maximum in the year 2012.
 - The rate of car theft seems to be falling in Chicago, since 2012.
-- We can see that out of the 77 Community Areas, Austin is the worst Community Are to park a car.
+- We can see that out of the 77 Community Areas, Austin is the worst Community Are to park a car, followed by West Town and Humboldt Park.
 --------------------------------
 ## Analysis 4
 ### Analyzing Monthly Domestic Violence in last 5 years
@@ -126,6 +127,7 @@ Domestic, Year
 ![alt text](https://github.com/swarupmishal/mishal_swarup_spring2017/blob/master/final/analysis/ana_4/Monthly%20domestic%20violence.png)
 
 > Inference:
+- We can observe a higher rates of Crime in the mid year of each year.
 - The higher rate of crime activity during April-August, might be due to the fact that it's the summer period where people are always outside and more vulnerable to attacks from perps.
 --------------------------------
 ## Analysis 5
@@ -145,7 +147,7 @@ Latitude, Longitude, Year
 
 
 > Inference:
-- The Bright spots show more crime activity in past 2 years and light spots show less crime activity in past 2 years.
+- The Bright spots show more criminal activity and light spots show less criminal activity in past 2 years.
 - Brighter the spot, more is it unsafe to stay in that locality.
 - If someone is considering moving to Chicago, they should try to live near places with light spots so as to avoid Criminal activity.
 --------------------------------
