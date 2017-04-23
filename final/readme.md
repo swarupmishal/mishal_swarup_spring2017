@@ -5,6 +5,7 @@ https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 # How can one obtain the Data?
 There are 2 links for downloading the data.
+
 Link 1(Just Copy, Paste and hit Enter key and it will automatically start download):
 https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.csv?accessType=DOWNLOAD
 Steps:
